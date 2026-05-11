@@ -1,3 +1,5 @@
+![Alt Text](architecture.png)
+
 # postgres-kafka-clickhouse-cdc
 
 A production-grade Change Data Capture pipeline that streams every INSERT, UPDATE, and DELETE from PostgreSQL into ClickHouse in under 2 seconds — without touching your application code.
